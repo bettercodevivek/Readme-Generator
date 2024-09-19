@@ -1,12 +1,14 @@
 {
   "name": "readme-generator-bcv",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "GenerateReadme": "node index.js"
   },
-  "repository": {"url": "https://github.com/bettercodevivek/Readme-Generator"},
+  "repository": {
+    "url": "https://github.com/bettercodevivek/Readme-Generator"
+  },
   "keywords": [
     "readme",
     "generator",
