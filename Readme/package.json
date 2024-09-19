@@ -6,6 +6,7 @@
   "scripts": {
     "GenerateReadme": "node index.js"
   },
+  "repository": {"url": "https://github.com/bettercodevivek/Readme-Generator"},
   "keywords": [
     "readme",
     "generator",

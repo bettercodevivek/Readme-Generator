@@ -37,8 +37,9 @@ npm install readme-generator-bcv --save-dev
   
  Here is what your CLI will look like when answering prompts of this readme generator :-
 
-![](/Readme/images/Screenshot1.png)
-![](/Readme/images/Screenshot2.png)
+![Screenshot1](https://raw.githubusercontent.com/bettercodevivek/Readme-Generator/main/Readme/images/Screenshot1.png)
+
+![Screenshot2](https://raw.githubusercontent.com/bettercodevivek/Readme-Generator/main/Readme/images/Screenshot2.png)
 
  ## Contributing
 
