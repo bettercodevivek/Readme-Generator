@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator-bcv",
+  "version": "1.0.12",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "GenerateReadme": "node index.js"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "generate",
+    "readme-maker"
+  ],
+  "author": "vivek singh",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^10.2.2"
+  },
+  "bin": {
+    "Readme": "./index.js"
+  }
+}
